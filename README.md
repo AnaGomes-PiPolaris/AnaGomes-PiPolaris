@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ana Gomes(Pi Polaris)
+- 👀 I’m interested in Front End frameworks and design with Figma
+- 🌱 I’m currently learning how to be an adult with ADHD
+- 💞️ I’m looking to collaborate on CIA/Eng repositories and Yoga system
+- 📫 How to reach me ana.gomes@gympass.com
